@@ -1,6 +1,7 @@
 # PictureSelector 2.0 
    A Picture Selector for Android platform, support from the album to obtain pictures, video, audio & photo, support crop (single picture or multi-picture crop), compression, theme custom configuration and other functions, support dynamic access & adapt to Android 5.0+ system of open source picture selection framework。<br>
 
+Fork from https://github.com/LuckSiege/PictureSelector
 [中文版🇨🇳](README_CN.md) 
 
 [Download APK](https://github.com/LuckSiege/PictureSelector/raw/master/app/demo/demo_2021-09-05_083057_v2.7.3-rc08.apk)<br>
